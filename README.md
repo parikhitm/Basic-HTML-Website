@@ -11,7 +11,9 @@ This project is a simple, multi-page website built using only HTML. It demonstra
 
 ## Project Page URL
 
-You can view the live project at: https://parikhitm.github.io/basic-html-website/
+You can view the live project at: https://parikhitm.github.io/Basic-HTML-Website/
+
+Roadmap.sh Project URL: https://roadmap.sh/projects/basic-html-website
 
 ## Features
 
